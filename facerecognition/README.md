@@ -1,4 +1,5 @@
-This folder contains the frontend components of the project built specifically using React.js
+# Frontend
+This folder contains the frontend components of the project built specifically using React.js.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
