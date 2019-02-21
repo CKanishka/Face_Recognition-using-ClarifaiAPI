@@ -11,7 +11,7 @@ import SignIn from './components/signin/signin';
 import Register from './components/register/register';
 
 const app = new Clarifai.App({
-  apiKey: 'c1c1930198f84b5fbf8527d38e6a17db'
+  apiKey: 'YOUR-API-KEY'
  });
 
 const initialState = {
